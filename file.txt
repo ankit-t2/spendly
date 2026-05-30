@@ -27,7 +27,7 @@ Extend base.html if it exists, otherwise match the style of landing.html.
 
 ----
 
-
+git commit -m "landing: add terms and conditions page and route"
 
 ----
 
@@ -41,3 +41,10 @@ Create templates/privacy.html with generic privacy policy content appropriate fo
 In @templates/landing.html, update the "Privacy Policy" footer link href from "#" to "/privacy".
 
 Make sure the appearance looks like the website's theme
+
+----
+
+git commit -m "landing: add privacy policy page and route"
+
+----
+
